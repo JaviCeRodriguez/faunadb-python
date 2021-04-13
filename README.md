@@ -13,5 +13,11 @@ Scripts de ejemplo para el uso de FaunaDB con Python
 2. Repetimos pasos 1 y 2 del anterior título
 3. Instalamos librerías de requirements: `pip install -r requirements.txt`
 
+## Variables de entorno en `.env`:
+```
+ADMIN_KEY=key_de_db_admin
+SERVER_KEY=key_de_db_server
+```
+
 ## Links útiles:
 - [Create, retrieve, update and delete](https://docs.fauna.com/fauna/current/tutorials/crud.html?lang=python)
