@@ -1,7 +1,7 @@
 # faunadb-python
 Scripts de ejemplo para el uso de FaunaDB con Python
 
-## Instalación de variables de entorno (Windows):
+## Instalación de venv (Windows):
 1. Creamos venv: `python -m venv myenv`
 2. Activamos venv: `myenv\Scripts\activate`
 3. Instalamos librerías necesarias
