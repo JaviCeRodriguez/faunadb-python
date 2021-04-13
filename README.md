@@ -12,3 +12,6 @@ Scripts de ejemplo para el uso de FaunaDB con Python
 1. Clonamos: `git clone https://github.com/JaviCeRodriguez/faunadb-python.git`
 2. Repetimos pasos 1 y 2 del anterior título
 3. Instalamos librerías de requirements: `pip install -r requirements.txt`
+
+## Links útiles:
+- [Create, retrieve, update and delete](https://docs.fauna.com/fauna/current/tutorials/crud.html?lang=python)
